@@ -1,9 +1,13 @@
 package com.whw.com.whw.demter;
 
+/**
+ * 违反迪米特法则
+ */
 public class AntiDemter {
     public static void main(String[] args) {
         MainClass mainClass = new MainClass();
         mainClass.doMainMethod(new C());
+
     }
 }
 
