@@ -7,7 +7,7 @@ public class AntiDemter {
     public static void main(String[] args) {
         MainClass mainClass = new MainClass();
         mainClass.doMainMethod(new C());
-
+        //我看看今天还能提交到github不
     }
 }
 
