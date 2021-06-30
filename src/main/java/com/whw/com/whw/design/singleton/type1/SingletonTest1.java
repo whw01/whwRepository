@@ -1,6 +1,6 @@
-package com.whw.com.whw.design.singleton;
+package com.whw.com.whw.design.singleton.type1;
 
-public class Type1 {
+public class SingletonTest1 {
 
     public static void main(String[] args) {
         Singleton instance = Singleton.getInstance();
